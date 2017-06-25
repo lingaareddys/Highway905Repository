@@ -6,3 +6,5 @@ String password="password";
 syso(+username+password+);
 
 syso("this is the testing purpose");
+webdriver driver=new firefoxdriver();
+driver.get("www.highway905.com");
